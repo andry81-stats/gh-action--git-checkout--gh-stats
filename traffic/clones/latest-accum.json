@@ -1,23 +1,16 @@
 {
-  "timestamp" : "2022-05-17T16:37:45Z",
-  "count_outdated" : 124,
-  "uniques_outdated" : 45,
-  "count" : 161,
-  "uniques" : 66,
+  "timestamp" : "2022-05-18T01:53:07Z",
+  "count_outdated" : 128,
+  "uniques_outdated" : 48,
+  "count" : 162,
+  "uniques" : 67,
   "clones" : [
-    {
-      "timestamp": "2022-05-03T00:00:00Z",
-      "count": 3,
-      "count_minmax": [ 0, 4 ],
-      "uniques": 2,
-      "uniques_minmax": [ 0, 3 ]
-    },
     {
       "timestamp": "2022-05-04T00:00:00Z",
       "count": 1,
-      "count_minmax": [ 0, 1 ],
+      "count_minmax": [ 1, 1 ],
       "uniques": 1,
-      "uniques_minmax": [ 0, 1 ]
+      "uniques_minmax": [ 1, 1 ]
     },
     {
       "timestamp": "2022-05-05T00:00:00Z",
@@ -43,16 +36,16 @@
     {
       "timestamp": "2022-05-09T00:00:00Z",
       "count": 2,
-      "count_minmax": [ 0, 2 ],
+      "count_minmax": [ 2, 2 ],
       "uniques": 1,
-      "uniques_minmax": [ 0, 1 ]
+      "uniques_minmax": [ 1, 1 ]
     },
     {
       "timestamp": "2022-05-10T00:00:00Z",
       "count": 2,
-      "count_minmax": [ 0, 2 ],
+      "count_minmax": [ 2, 2 ],
       "uniques": 1,
-      "uniques_minmax": [ 0, 1 ]
+      "uniques_minmax": [ 1, 1 ]
     },
     {
       "timestamp": "2022-05-11T00:00:00Z",
@@ -64,16 +57,16 @@
     {
       "timestamp": "2022-05-12T00:00:00Z",
       "count": 6,
-      "count_minmax": [ 0, 6 ],
+      "count_minmax": [ 6, 6 ],
       "uniques": 3,
-      "uniques_minmax": [ 0, 3 ]
+      "uniques_minmax": [ 3, 3 ]
     },
     {
       "timestamp": "2022-05-13T00:00:00Z",
       "count": 2,
-      "count_minmax": [ 0, 2 ],
+      "count_minmax": [ 2, 2 ],
       "uniques": 1,
-      "uniques_minmax": [ 0, 1 ]
+      "uniques_minmax": [ 1, 1 ]
     },
     {
       "timestamp": "2022-05-14T00:00:00Z",
@@ -85,9 +78,9 @@
     {
       "timestamp": "2022-05-15T00:00:00Z",
       "count": 2,
-      "count_minmax": [ 0, 2 ],
+      "count_minmax": [ 2, 2 ],
       "uniques": 1,
-      "uniques_minmax": [ 0, 1 ]
+      "uniques_minmax": [ 1, 1 ]
     },
     {
       "timestamp": "2022-05-16T00:00:00Z",
